@@ -1,6 +1,7 @@
 # Debug ducky zone :D
 
 > document where I jot down basically anything that might be relevant for development. Dont pay it too much attention
+> note from new dev (walter): I'll try to finish this, No promises though.
 
 - [ ] Conversions
   - [x] Imperial -> Metric
